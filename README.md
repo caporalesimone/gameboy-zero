@@ -1,2 +1,2 @@
-# gambeoy-zero
-My Gameboy Zero project
+# Gameboy Zero personal project
+My Gameboy Zero personal project
